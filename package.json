@@ -1,0 +1,32 @@
+{
+  "name": "keep_coding_practice",
+  "version": "1.0.0",
+  "description": "Proyecto de la practica de keepcoding",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "installDB": "node ./scripts/install_db.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardiadrianadri/keepCodingPractice.git"
+  },
+  "author": "Adrian Ferreres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ardiadrianadri/keepCodingPractice/issues"
+  },
+  "homepage": "https://github.com/ardiadrianadri/keepCodingPractice#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-apidoc": "^0.10.1",
+    "grunt-auto-install": "^0.2.4",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-env": "^0.4.4",
+    "grunt-execute": "^0.2.2"
+  }
+}

@@ -1,0 +1,134 @@
+libGL error: MESA-LOADER: could not create udev device for fd 26
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[5159:5250:0923/141933:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5188:0923/141934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5188:0923/141934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5188:0923/141934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5188:0923/141934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5188:0923/141934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(12822)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(6833)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(12822)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(6833)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(12822)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(6833)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(12822)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(6833)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(12822)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(6833)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(12822)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(6833)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(12822)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(6833)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(12822)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(6833)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(12822)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(6833)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(12822)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(6833)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(12822)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(6833)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(12822)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(6833)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(12822)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(6833)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(12822)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(12822)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(6833)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[5198:5198:0923/142354:ERROR:gles2_cmd_decoder.cc(6833)] [GroupMarkerNotSet(crbug.com/242999)!:D012A9818B0E0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[5159:5159:0923/142406:ERROR:display_info_provider_aura.cc(30)] Not implemented reached in virtual void extensions::DisplayInfoProviderAura::UpdateDisplayUnitInfoForPlatform(const gfx::Display &, extensions::core_api::system_display::DisplayUnitInfo *)
+[5159:5253:0923/142934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5188:0923/142934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5253:0923/142934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5250:0923/142934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5188:0923/143934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5250:0923/143934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5188:0923/143934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5250:0923/143934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5188:0923/144934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5253:0923/144934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5188:0923/144934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5250:0923/144934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5188:0923/145934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5253:0923/145934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5188:0923/145934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5250:0923/145934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5253:0923/150934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5250:0923/150934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5253:0923/150934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5250:0923/150934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5250:0923/151934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5188:0923/151934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5250:0923/151934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5250:0923/151934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5194:0923/152053:ERROR:connection_factory_impl.cc(366)] Failed to connect to MCS endpoint with error -106
+[5159:5250:0923/152934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5188:0923/152934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5250:0923/152934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5188:0923/152934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5253:0923/153934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5188:0923/153934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5253:0923/153934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5250:0923/153934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5250:0923/154934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5253:0923/154934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5250:0923/154934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5253:0923/154934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5250:0923/155934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5253:0923/155934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5250:0923/155934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5253:0923/155934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5188:0923/160934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5253:0923/160934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5188:0923/160934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5250:0923/160934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5250:0923/161934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5253:0923/161934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5250:0923/161934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5188:0923/161934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5253:0923/162934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5250:0923/162934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5188:0923/162934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5250:0923/162934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5250:0923/163934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5253:0923/163934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5250:0923/163934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5253:0923/163934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5253:0923/164934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5188:0923/164934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5253:0923/164934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[5159:5188:0923/164934:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[5159:5194:0923/165637:ERROR:channel.cc(307)] RawChannel read error (connection broken)
+[5159:5194:0923/165653:ERROR:channel.cc(307)] RawChannel read error (connection broken)
+VMware: vmw_ioctl_command error Permiso denegado.
+VMware: vmw_ioctl_fence_unref Failed
+VMware: vmw_ioctl_command error Permiso denegado.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+libGL error: MESA-LOADER: could not create udev device for fd 26
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[3563:3659:0928/220602:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[3563:3594:0928/220603:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[3563:3656:0928/220603:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[3563:3656:0928/220603:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[3563:3656:0928/220603:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[3563:3659:0928/220603:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[3563:3600:0928/220618:ERROR:connection_factory_impl.cc(366)] Failed to connect to MCS endpoint with error -130
+[3563:3600:0928/220634:ERROR:channel.cc(307)] RawChannel read error (connection broken)
+[3563:3600:0928/220705:ERROR:connection_factory_impl.cc(366)] Failed to connect to MCS endpoint with error -130
+[3563:3600:0928/220819:ERROR:connection_factory_impl.cc(366)] Failed to connect to MCS endpoint with error -130
+[3563:3563:0928/220837:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-130).
+[3563:3563:0928/220837:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-130).
+[3563:3600:0928/221012:ERROR:connection_factory_impl.cc(366)] Failed to connect to MCS endpoint with error -130
+[3563:3600:0928/221346:ERROR:connection_factory_impl.cc(366)] Failed to connect to MCS endpoint with error -130
+[3563:3563:0928/221409:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+[3563:3563:0928/221500:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+[3563:3656:0928/221603:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[3563:3659:0928/221603:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[3563:3656:0928/221603:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[3563:3659:0928/221603:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[3563:3563:0928/221605:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+[3563:3563:0928/221824:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+[3563:3659:0928/222603:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[3563:3656:0928/222603:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
+[3563:3659:0928/222603:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.peruser
+[3563:3656:0928/222603:ERROR:native_process_launcher.cc(130)] Can't find manifest for native messaging host net.ietab.ietabhelper.perbox
