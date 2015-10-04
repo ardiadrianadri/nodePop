@@ -8,7 +8,7 @@
 ## Inicio rapido del back
 1. Descargar el proyecto desde github
 
- > git clone https://github.com/ardiadrianadri/keepCodingPractice
+ > git clone https://github.com/ardiadrianadri/nodePop
 
 2. Instalamos la librerias de npm
 
